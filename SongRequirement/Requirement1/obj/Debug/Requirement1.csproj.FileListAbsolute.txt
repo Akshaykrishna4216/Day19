@@ -1,0 +1,8 @@
+D:\UST\Day13\SongRequirement\Requirement1\bin\Debug\Requirement1.exe.config
+D:\UST\Day13\SongRequirement\Requirement1\bin\Debug\Requirement1.exe
+D:\UST\Day13\SongRequirement\Requirement1\bin\Debug\Requirement1.pdb
+D:\UST\Day13\SongRequirement\Requirement1\obj\Debug\Requirement1.csproj.AssemblyReference.cache
+D:\UST\Day13\SongRequirement\Requirement1\obj\Debug\Requirement1.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day13\SongRequirement\Requirement1\obj\Debug\Requirement1.csproj.CoreCompileInputs.cache
+D:\UST\Day13\SongRequirement\Requirement1\obj\Debug\Requirement1.exe
+D:\UST\Day13\SongRequirement\Requirement1\obj\Debug\Requirement1.pdb
